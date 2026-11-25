@@ -2,5 +2,4 @@
   "appId": "com.aksaraku.app",
   "appName": "Aksaraku",
   "webDir": "www".
-  "bundledWebRuntime": false
 }
